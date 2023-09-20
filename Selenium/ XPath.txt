@@ -1,0 +1,24 @@
+www.walmart.com
+//li/a[text()="Deals"]
+//a[text()="Deals"]
+//button[@id="cart-button-header"]
+//button[text()="Departments"]
+//button[text()="Services"]
+//div[text()="Sign In"]
+//button[@aria-label="All filters"]
+//input[@type="search"]
+//button[@aria-label="Search icon"]
+//a[@link-identifier="Reorder my items"]
+//span[contains(text(), "Selected")]
+//button[contains(@id, "clothing_size")]
+
+www.ukr.net
+//*[@id="feed"]//li/a
+//div[@class="feed__item--title"]/a
+//section[@class="feed__section"]/div
+//section[@class="feed__section"]//li
+//ul[@class="feed__section--top"]/li
+//a[text()="Головне"]
+//ul/li[@data-tab="sinoptik"]
+//input[@name="login"]
+//label/input[@type="password"]
